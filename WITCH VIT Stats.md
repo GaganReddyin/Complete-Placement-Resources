@@ -1,6 +1,6 @@
 # VIT Placement Statistics 2024 (B.Tech)
 
-This repository contains the placement data for the year 2024 at VIT University. Below is a detailed breakdown of offers, placements, and statistics.
+This readme contains the placement data of Service Based Companies for the year 2024 at VIT University. Below is a detailed breakdown of offers, placements, and statistics.
 
 ---
 
@@ -32,31 +32,8 @@ This repository contains the placement data for the year 2024 at VIT University.
 
 ---
 
-## 📈 Overall Placement Statistics (Excluding WITCH Offers)
-
-| Metric                       | Value         |
-|------------------------------|---------------|
-| Total Students Placed        | 3,290         |
-| **Average CTC**              | ₹12.16 LPA    |
-| **Maximum CTC**              | ₹100.00 LPA   |
-| **Minimum CTC**              | ₹3.80 LPA     |
-| **Median CTC**               | ₹10.00 LPA    |
-
----
-
-### 🌐 Gender Breakdown
-| Metric                       | Value         |
-|------------------------------|---------------|
-| Total Male Selections        | 2,154         |
-| Total Female Selections      | 1,136         |
-| **Gender Ratio (M:F)**       | 1.90          |
-| **Average Male CTC**         | ₹11.71 LPA    |
-| **Average Female CTC**       | ₹13.03 LPA    |
-
----
-
 ## 📜 Notes
-- **WITCH Companies** include: **Wipro, Infosys, TCS, Cognizant, and HCL**.
+- **WITCH Companies** include: **Infosys, TCS, Cognizant, and LTIMindtree**.
 - The statistics are subject to change as new offers roll in or updates are made.
 
 Feel free to contribute or provide feedback to improve the repository! 🎓
