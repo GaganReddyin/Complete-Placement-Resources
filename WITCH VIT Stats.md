@@ -60,3 +60,4 @@ This repository contains the placement data for the year 2024 at VIT University.
 - The statistics are subject to change as new offers roll in or updates are made.
 
 Feel free to contribute or provide feedback to improve the repository! 🎓
+
