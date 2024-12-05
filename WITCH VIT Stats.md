@@ -34,6 +34,5 @@ This readme contains the placement data of Service Based Companies for the year 
 ## 📜 Notes
 - **WITCH Companies** include: **Infosys, TCS, Cognizant, and LTIMindtree**.
 - The statistics are subject to change as new offers roll in or updates are made.
-
 Feel free to contribute or provide feedback to improve the repository! 🎓
 
