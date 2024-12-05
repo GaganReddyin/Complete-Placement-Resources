@@ -2,7 +2,6 @@
 
 This readme contains the placement data of Service Based Companies for the year 2024 at VIT University. Below is a detailed breakdown of offers, placements, and statistics.
 
----
 
 ## 📊 Overall "WITCH" Offers (Only B.Tech): 4,572  
 *(Some students have multiple offers)*
