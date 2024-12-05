@@ -1,7 +1,7 @@
 # VIT Placement stats 2023-2024
 
 ### Placement Data 2023-2024 
-
+ 
 |Index|Company|Month|Intership/Fulltime|Role|CTC|Website|Desired Skills|Eligible Branches|Stipend|Location|Service Agreement|Only for Girls?|Students Recruited|Company|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |1|Skylark Drones|July|Both|SDE|8|www.skylarkdrones.com| |M. Tech|25000|Bangalore| | | |Skylark Drones|1|
