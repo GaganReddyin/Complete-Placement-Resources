@@ -14,7 +14,7 @@ The following data provides an overview of the placement statistics for the batc
 - **Average CTC:** 12.10 LPA  
 - **Maximum CTC:** 100.00 LPA  
 - **Minimum CTC:** 3.80 LPA  
-- **Median CTC:** 9.70 LPA  
+- **Median CTC:** 9.70 
 
 ## 👩‍🎓👨‍🎓 Gender Breakdown  
 
