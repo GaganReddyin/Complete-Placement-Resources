@@ -1,7 +1,7 @@
 # Complete-Placement-Resources
 comprehensive repository designed to assist students for Placements
 
-**Total Number of Companies:** 225,  Data Updated as on 05th December
+**Total Number of Companies:** 225,  Data Updated as on 07th December
 
 
 
