@@ -8,7 +8,7 @@ comprehensive repository designed to assist students for Placements
 
 # 📊 Overall Placement Statistics  
 
-The following data provides an overview of the placement statistics for the batch:  
+The following data provides an overview of the placement statistics for the batch:   
 
 - **Total Students Placed:** 3329  
 - **Average CTC:** 12.10 LPA  
