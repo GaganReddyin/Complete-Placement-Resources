@@ -10,7 +10,7 @@ comprehensive repository designed to assist students for Placements
 
 The following data provides an overview of the placement statistics for the batch:   
 
-- **Total Students Placed:** 3329  
+- **Total Students Placed:** 3329   
 - **Average CTC:** 12.10 LPA  
 - **Maximum CTC:** 100.00 LPA  
 - **Minimum CTC:** 3.80 LPA  
